@@ -1,0 +1,14 @@
+Endpoint is :
+https://reqres.in/api/users/2
+
+Request body is :
+{
+    "name": "Gaurav",
+    "job": "QA"
+}
+
+Response header date is : 
+Sun, 17 Mar 2024 17:22:32 GMT
+
+Response body is : 
+{"name":"Gaurav","job":"QA","updatedAt":"2024-03-17T17:22:32.769Z"}
